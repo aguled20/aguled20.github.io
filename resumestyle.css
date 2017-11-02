@@ -30,6 +30,30 @@ education{
 .alignright{
   float:right;
 }
+.company{
+  float:left;
+}
+.location{
+  float:right;
+}
+.company2{
+  float:left;
+}
+.location2{
+  float:right;
+}
+.company3{
+  float:left;
+}
+.location3{
+  float:right
+}
+.company4{
+  float:left;
+}
+.location4{
+  float:right;
+}
 .position{
   float:left;
 }
