@@ -32,18 +32,22 @@ education{
 .company{
   float:left;
   display:inline;
+  margin-bottom:1px
 }
 .location{
   float:right;
   display:inline;
+  margin-bottom:1px
 }
 .company2{
   float:left;
   display:inline;
+  margin-bottom:1px
 }
 .location2{
   float:right;
   display:inline;
+  margin-bottom:1px
 }
 .company3{
   float:left;
@@ -52,14 +56,17 @@ education{
 .location3{
   float:right;
   display:inline;
+  margin-bottom:1px
 }
 .company4{
   float:left;
   display:inline;
+  margin-bottom:1px;
 }
 .location4{
   float:right;
   display:inline;
+  margin-bottom:1px
 }
 .position{
   float:left;
