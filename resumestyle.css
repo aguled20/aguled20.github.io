@@ -16,3 +16,6 @@ address{
 main{
   font-size:45px;
 }
+positiondate{
+  display:flex;
+}
