@@ -1,20 +1,19 @@
 .Name{
   text-align: center;
-  font-size:60px;
+  font-size:48px;
   flex-wrap:wrap;
-  border-bottom: 5px solid black;
 }
 h4{
   text-align:left;
   border-bottom: 5px solid black;
-  font-size:45px;
+  font-size:32px;
 }
 address{
   text-align:center;
-  font-size:30px;
+  font-size:16px;
 }
 main{
-  font-size:45px;
+  font-size:32x;
 }
 positiondate{
   display:flex;
