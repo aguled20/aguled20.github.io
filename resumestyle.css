@@ -3,6 +3,10 @@
   font-size:48px;
   flex-wrap:wrap;
 }
+h5{
+  text-align:left;
+  font-size:32px;
+}
 h4{
   text-align:left;
   border-bottom: 5px solid black;
