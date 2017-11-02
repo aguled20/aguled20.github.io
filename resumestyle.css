@@ -12,6 +12,9 @@ address{
   text-align:center;
   font-size:16px;
 }
+education{
+  font-size:32px;
+}
 .alignleft{
   float:left;
 }
