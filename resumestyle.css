@@ -1,3 +1,15 @@
-.NameAddress{
+.Name{
   text-align: center;
+  font-size:60px;
+  flex-wrap:wrap;
+  border-bottom: 5px solid black;
+}
+h4{
+  text-align:left;
+  border-bottom: 5px solid black;
+  font-size:45px;
+}
+address{
+  text-align:center;
+  font-size:30px;
 }
