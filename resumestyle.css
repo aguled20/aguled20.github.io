@@ -26,6 +26,30 @@ education{
 .alignright{
   float:right;
 }
+.position{
+  float:left;
+}
+.date{
+  float:right;
+}
+.position2{
+  float:left;
+}
+.date2[
+  float:right;
+}
+.position3{
+  float:left;
+}
+.date3{
+  float:right;
+}
+.position4{
+  float:left;
+}
+.date4{
+  float:right;
+}
 main{
   font-size:16px;
 }
