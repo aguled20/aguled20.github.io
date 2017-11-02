@@ -5,12 +5,12 @@
 }
 h5{
   text-align:left;
-  font-size:32px;
+  font-size:16px;
 }
 h4{
   text-align:left;
   border-bottom: 5px solid black;
-  font-size:32px;
+  font-size:16px;
 }
 .address{
   text-align:center;
@@ -18,7 +18,7 @@ h4{
   flex-wrap:wrap;
 }
 education{
-  font-size:32px;
+  font-size:16px;
 }
 .alignleft{
   float:left;
@@ -27,9 +27,9 @@ education{
   float:right;
 }
 main{
-  font-size:32px;
+  font-size:16px;
 }
 positiondate{
   display:flex;
-  font-size:32px;
+  font-size:16px;
 }
