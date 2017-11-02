@@ -12,6 +12,12 @@ address{
   text-align:center;
   font-size:16px;
 }
+.alignleft{
+  float:left;
+}
+.alignright{
+  float:right;
+}
 main{
   font-size:32x;
 }
