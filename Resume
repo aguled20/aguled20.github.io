@@ -1,0 +1,54 @@
+<DOCTYPE! HTML>
+<html>
+<head>
+  <title>Resume</title>
+  <meta charset="utf-8"/>
+</head>
+<body>
+  <h2>Abdulahi Guled</h2>
+  <h6>3720 28th Ave South</h6>
+  <h6>Minneapolis, MN 55406</h6>
+  <h6>612-298-3367</h6>
+  <h4>Education</h4>
+  <p>North Hennepin Community College <br> Brooklyn Park,MN</p>
+  <h4>Experience</h4>
+  <h5>Doordash</h5>
+  <h5>Delivery Driver</h5>
+  <h5>June 2016-Current</h5>
+  <ul>
+    <li>Delivered restaurant orders in a timely and efficient manner.</li>
+  </ul>
+  <h5>Gandhi Mahal</h5>
+  <h5>Server</h5>
+  <h5>August 2015-June 2016</h5>
+  <ul>
+    <li>Ensured excellent restaurant experience through careful and thorough preparation
+in anticipation of customer demands.</li>
+    <li>Organized well-conducted events by carefully preparing for customer demands,
+efficiently adapting to unexpected changes, and collaborating with coworkers.</li>
+    <li>Demonstrated excellent adaptability skills by assisting in various restaurant roles
+such as dish-washing, delivering, and cleaning duties.</li>
+  </ul>
+  <h5>University of Minnesota</h5>
+  <h5>Media Lab Attendant</h5>
+  <h5>September 2012-December 2012</h5>
+  <ul>
+    <li>Assisted second language students and staff with their technological needs.</li>    
+    <li>Provided excellent customer service and fix problems with computers, video, audio,
+    and printing equipment.</li>
+  </ul>
+  <h5>Hennepin County Government Center</h5>
+  <h5>IT Enterprise Development Intern</h5>
+  <h5>June 2012-September 2012</h5>
+  <ul>
+    <li>Managed user accounts on Provider Insite website for health care vendors.</li>
+    <li>Made Visio diagrams of County IT processes to present to customers.</li>
+  </ul>
+  <h4>Skills</h4>
+  <ul>
+    <li>Proficient in Microsoft Office Suite</li>
+    <li>Proven ability to troubleshoot service and hardware issues.</li>
+    <li>Excellent customer service orientation</li>
+    <li>Fluent in Somali and Arabic.</li>
+</body>
+</html>
