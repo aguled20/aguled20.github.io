@@ -13,6 +13,9 @@ h4{
   border-bottom: 5px solid black;
   font-size:16px;
 }
+ul{
+  margin-top:1px;
+}
 .address{
   text-align:center;
   font-size:16px;
