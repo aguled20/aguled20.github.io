@@ -32,27 +32,35 @@ education{
 }
 .company{
   float:left;
+  display:inline;
 }
 .location{
   float:right;
+  display:inline;
 }
 .company2{
   float:left;
+  display:inline;
 }
 .location2{
   float:right;
+  display:inline;
 }
 .company3{
   float:left;
+  display:inline;
 }
 .location3{
   float:right;
+  display:inline;
 }
 .company4{
   float:left;
+  display:inline;
 }
 .location4{
   float:right;
+  display:inline;
 }
 .position{
   float:left;
