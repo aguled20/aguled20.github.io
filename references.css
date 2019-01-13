@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.links{
+display:inline;
+margin-bottom: 10px;}
+.links ul {
+list-style:none;
+}
+.links button {
+	background-color:transparent;
+	color: #4d4d4d;
+}
+body {
+	background-color: beige;
+}
